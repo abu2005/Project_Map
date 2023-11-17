@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Fira Sans', sans-serif;
+}
+h1{
+color:blue;
+text-align: center;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQ9EGpLL9foW0l0X2wZI4fUXTHwHl4xDIxQ&usqp=CAU);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+h1,h2,h3{
+
+font-family: 'Borel', cursive;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Roboto', sans-serif;
+/* font-size: 1.5rem; */
+  /* text-align: center; */
+}
+header{
+
+background-color: rgb(106, 196, 221);
+/* padding:auto;
+margin:auto; */
+} 
+.myself{
+color:red;
+margin:auto
+}
+main img{
+border: 5px solid white;
+  border-radius: 50%;
+ float:right;
+ height:250px ;
+ width:250px;
+}
+#logo{
+height: 80px;
+width:100px;
+border: 5px solid white;
+  border-radius: 50%;
+}
+
+
+.journey{
+color:rgb(235, 235, 102);
+ font-size: 1.5rem; 
+  
+
+}  
+.purpose
+{
+color:blueviolet;
+  font-size: 1.5rem; 
+
+}
+.myself{
+color:crimson;
+}
+
+h3{
+
+}
+
+.professional-experience {
+  padding: 1% 5%;
+}
+
+div {
+  display: block;
+}
+
+.professional-experience::after {
+  clear: both;
+  display: table;
+  content: '';
+}
+
+
+footer {
+
+
+
+ color:white;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Set your desired background color */
+}
+
+#map {
+  width: 100%;
+  height: 300px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+/* a{
+color:white;
+padding:50px;
+margin:50px
+} */
+
+
+
+
+
